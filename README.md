@@ -1,6 +1,6 @@
 # 📊 SQL + Excel Sales Analysis | Adventure Works
 
-![Dashboard Final](assetsassets/relatorio_finalizado.png)
+![Dashboard Final](assetsassets/13-relatorio_finalizado.png)
 
 Este projeto demonstra uma análise completa de vendas utilizando SQL Server e Excel, com construção de dashboard interativo e geração de insights estratégicos.
 
